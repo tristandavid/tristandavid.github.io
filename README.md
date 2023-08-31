@@ -112,7 +112,9 @@
 <br>
 Toronto, Ontario
 <br>
-President’s Honour List, Computer System Technician - Diploma
+Computer System Technician - Diploma
+<br>
+Graduated with High Honours | GPA - 4.0
 <br>
 <br>
 <b>HOLY ANGEL UNIVERSITY</b>
