@@ -1,6 +1,6 @@
 ## Profile
 
-<p align="justify">Excellent communication skills, adept at explaining complex technical concepts and processes to clients and non-technical staff in a clear and understandable manner. Professional history in Electrical Engineering with strong academic and technical background under President's Honour List, GPA of 4.0 at Seneca College. Skilled in repairing computer hardware, diagnosing,  troubleshooting, resolving network, hardware and software issues: maximizing productivity by patching and upgrading, planning installing and configuring program applications in a collaborative team, akin to mentorship and adapt to a new working environment.</p>
+<p align="justify">Excellent communication skills, adept at explaining complex technical concepts and processes to clients and non-technical staff in a clear and understandable manner. Professional history in Electrical Engineering with strong academic and technical background graduated with High Honours, Cummulative GPA of 4.0 at Seneca College. Skilled in repairing computer hardware, diagnosing,  troubleshooting, resolving network, hardware and software issues: maximizing productivity by patching and upgrading, planning installing and configuring program applications in a collaborative team, akin to mentorship and adapt to a new working environment.</p>
 
 ------
 
