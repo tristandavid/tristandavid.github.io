@@ -56,6 +56,31 @@
 
 ### Works Experience
 
+### Canadian Locators Inc., Canada 2022-Present
+<b>IT Support - Ontario</b>
+<br>
+• Network monitoring, maintenance and troubleshooting.
+<br>
+• Microsoft 365 administration.
+<br>
+• VOIP Phones administration.
+<br>
+• Windows 10 administration.
+<br>
+• Support/Assists office and field end-users IT related issues via phone and email.
+<br>
+• IoT equipment setup and administration (IP cameras and NVRs)
+<br>
+• Setup and configure desktops, laptops and printers to new hires.
+<br>
+• Reimages, upgrades and repairs existing laptops and desktops as needed.
+<br>
+• Printer troubleshooting.
+<br>
+• Purchasing IT equipments and parts needed in the company operations.
+<br>
+• Inventory management.
+<br>
 ### IB Vogt Asia Pacific, Philippines | 2016-2021
 <b>Project Engineer (Team Electrical Engineering)</b>
 <br>
