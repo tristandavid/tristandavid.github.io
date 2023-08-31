@@ -108,7 +108,7 @@
 
 ### EDUCATION AND PROFESSIONAL DEVELOPMENT
 
-<b>SENECA COLLEGE | May 2021 – Present</b>
+<b>SENECA COLLEGE | May 2021 – August 2022</b>
 <br>
 Toronto, Ontario
 <br>
