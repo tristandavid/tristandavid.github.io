@@ -56,7 +56,7 @@
 
 ### Works Experience
 
-### Canadian Locators Inc., Canada 2022-Present
+### Canadian Locators Inc., Canada | 2022-Present
 <b>IT Support - Ontario</b>
 <br>
 • Network monitoring, maintenance and troubleshooting.
