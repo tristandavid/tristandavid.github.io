@@ -63,6 +63,34 @@
 •	Created and managed users using active directory users and computer.
 <br>
 •	Installed IIS Services from webserver machine and set FQDN to be able to access on any client machine.
+<br>
+### Self-Hosted Market Data API on Oracle Cloud | 2026
+
+•	Deployed and maintain a REST API server on an Oracle Cloud ARM Ubuntu VPS serving live market data to the WealthBoard app.
+<br>
+•	Built a monitoring dashboard that tracks API requests per minute, active devices and requesting countries.
+<br>
+•	Configured custom subdomains, DNS records and HTTPS for the API, dashboard and app websites.
+<br>
+•	Deploy server updates remotely using SSH/SCP with key-based authentication.
+<br>
+### Real-Time Multiplayer Game Server | 2026
+
+•	Built and deployed a backend for WordGlint on a self-managed VPS instead of Firebase, handling async Friend Matches and turn-based live duels.
+<br>
+•	Implemented an online lobby, global leaderboard and live quick-reaction messaging between players.
+<br>
+•	Integrated Google Play Games leaderboards on Android alongside the server leaderboard.
+<br>
+### Cross-Platform App Release Pipeline | 2025-2026
+
+•	Shipped native Android (Kotlin/Jetpack Compose) and iOS (Swift/SwiftUI) builds of the same apps with matching features and design.
+<br>
+•	Ran closed testing on Google Play and handled App Store review submissions and follow-ups.
+<br>
+•	Set up ad mediation (Unity LevelPlay/Unity Ads), in-app purchases and EU/UK privacy consent flows.
+<br>
+•	Published support and privacy-policy websites for each app using GitHub Pages.
 
 ------
 
