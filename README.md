@@ -24,6 +24,18 @@
     <b><td>Virtualization</td></b>
     <td>VMWare, VirtualBox</td>
   </tr>  
+  <tr>
+    <b><td>Mobile</td></b>
+    <td>Kotlin, Jetpack Compose (Android); Swift, SwiftUI (iOS); Godot</td>
+  </tr>
+  <tr>
+    <b><td>App Publishing</td></b>
+    <td>Google Play Console, App Store Connect, Unity LevelPlay / Unity Ads, GitHub Pages</td>
+  </tr>
+  <tr>
+    <b><td>Cloud &amp; Backend</td></b>
+    <td>Oracle Cloud (Ubuntu VPS), self-hosted REST APIs, server monitoring</td>
+  </tr>
 </table>
 </p>
 
@@ -56,6 +68,21 @@
 
 ### Works Experience
 
+### Independent Mobile App Developer, Canada | 2025-Present
+<b>Founder &amp; Developer - iOS and Android</b>
+<br>
+• Design, build and publish native mobile apps and games for both platforms (Kotlin/Jetpack Compose and Swift/SwiftUI), keeping features and design at parity across Android and iOS.
+<br>
+• Shipped <b>WealthBoard</b>, a portfolio, dividend and tax tracker, live on Google Play, backed by a self-hosted market-data API and monitoring dashboard on Oracle Cloud.
+<br>
+• Released <b>Dotcade</b>, a retro dot-matrix arcade game, approved on the App Store, with in-app purchases and consent-based ads.
+<br>
+• Built <b>Transly Pocket</b>, an offline on-device AI transcriber and translator focused on privacy.
+<br>
+• Developing games and tools including <b>WordGlint</b> (word puzzle with online live duels), <b>Puffloon</b> (one-tap flyer), <b>Moth &amp; the Lantern</b> (platformer, sequel in Godot) and <b>Contribution Room</b>.
+<br>
+• Manage the full release cycle: store listings, closed testing, privacy/consent compliance (EU/UK), ad mediation, subscriptions and support websites.
+<br>
 ### Canadian Locators Inc., Canada | 2022-Present
 <b>IT Support - Ontario</b>
 <br>
