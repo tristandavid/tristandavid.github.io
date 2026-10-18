@@ -9,5 +9,7 @@ description:
   <br>
   <img src="/github.png?raw=true" width="20" height="20"><a href="https://tristandavid.github.io/">Github</a>
   <br>
+  <img src="/apps/wealthboard-icon.png" width="20" height="20"><a href="/my-apps.html">My Apps</a>
+  <br>
   <img src="/resumelogo.png?raw=true" width="20" height="20"><a href="/TristanJohnDavid_Resume.pdf">Download a copy of my resume</a>
 theme: jekyll-theme-minimal

@@ -111,6 +111,8 @@
 <br>
 • Manage the full release cycle: store listings, closed testing, privacy/consent compliance (EU/UK), ad mediation, subscriptions and support websites.
 <br>
+• <a href="/my-apps.html">See all my apps with screenshots &rarr;</a>
+<br>
 ### Canadian Locators Inc., Canada | 2022-Present
 <b>IT Support - Ontario</b>
 <br>
